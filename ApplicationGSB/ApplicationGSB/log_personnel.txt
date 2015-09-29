@@ -1,0 +1,18 @@
+
+Date panne: 6 mai 2015
+ Materiel panne: Software
+ Urgence panne: Urgent
+ Materiel panne:  
+ Descriptif panne: ok
+ Machine panne: Lenovox0120
+ Id connecte: perso01
+ ----------------------- 
+
+Date panne: 1 mai 2015
+ Materiel panne: toto
+ Urgence panne: Trés urgent
+ Materiel panne:  
+ Descriptif panne: ok
+ Machine panne: Lenovo x0137
+ Id connecte: perso01
+ ----------------------- 
